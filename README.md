@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TheJessieKirk
+- 👀 I’m interested in C, C++, Java, LUA, Python, HTML, CSS, JavaScript, PHP and XML.
+- 🌱 I’m an undergraduate at Open University.
+- 📫 Twitter: @TheJessieKirk
